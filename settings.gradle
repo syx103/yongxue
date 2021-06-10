@@ -1,0 +1,6 @@
+rootProject.name='BaseText'
+include ':app'
+include ':common'
+include ':home'
+include ':project'
+include ':user'
